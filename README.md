@@ -1,7 +1,6 @@
-### Hola 👋
-- 🔭 Actualmente estoy trabajando en Open International
-- 🌱 Actualmente estoy aprendiendo tecnologias de Java Script
-- 👯 Estoy buscando colaborar en proyectos de angular y express
+### Hi, I'm a Colombian software developer.
+- 🔭 I am currently working at Open International
+- 🌱 I have been working with Java Script technologies for more than 6 years
+- 👯 I'm looking to collaborate on angular projects
 - 📫 luisalbertoj.tober@gmail.com
-- ⚡ Me encanta Java Script
-
+- ⚡ I love JavaScript
